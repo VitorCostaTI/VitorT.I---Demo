@@ -1,0 +1,61 @@
+*{
+
+padding: 0;
+margin: 0;
+
+}
+
+body {
+
+  background-image: url(../img/hong-kong-1990268_1920.jpg);
+}
+
+
+form h1 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-bottom: 15px;
+}
+
+.user {
+  font-family: 'Comic Neue', cursive;
+  box-shadow: 1px 1px   black;
+  background-color: rgba(0, 0, 0, 0.918);
+  width: 50%;
+  height: 50%;
+  justify-content: center;
+  margin-top: 120px;
+  margin-left: 25%;
+  margin-bottom: 230px;
+  font-size: 25px;
+}
+
+label {
+  margin-left: 5%;
+  color: antiquewhite;
+}
+
+input {
+  margin-left: 10%;
+  width: 80%;
+  height: 40px;
+  border-radius: 15px;
+  border-color: rgb(235, 233, 232);
+  ;
+}
+
+button {
+  width: 40%;
+  height: 50px;
+  background-color: rgb(140, 184, 250);
+  border-radius: 15px;
+  font-size: 25px;
+}
+
+a{
+
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+
+}
+
